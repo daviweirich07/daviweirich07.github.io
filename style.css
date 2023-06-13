@@ -1,5 +1,5 @@
 body {
-    background-color: rgb(136, 158, 190);
+    background-color: rgb(13, 41, 78);
     color: white;
 }
 .cabecalho-imagem {
@@ -7,7 +7,7 @@ body {
 }
 
 .cabecalho {
-    background-color: rgba(136, 158, 190);
+    background-color: rgba(13, 41, 78);
     color: white;
     display: flex;
     justify-content: space-around;
